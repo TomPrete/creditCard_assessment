@@ -1,0 +1,12 @@
+{
+  "name": "avant_assessment",
+  "version": "1.0.0",
+  "description": "create a credit card that that meets specific specifications",
+  "main": "creditcard.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "keywords": [],
+  "author": "thomas_prete",
+  "license": "ISC"
+}
